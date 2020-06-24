@@ -2,7 +2,7 @@
 - Research interests 
 - Bio
 - CV
-- Contact
+- [Contact](https://freeejazzz.github.io/academicwebsite/contact)
 
 You can use the [editor on GitHub](https://github.com/freeejazzz/academicwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
