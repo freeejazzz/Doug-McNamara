@@ -4,4 +4,4 @@ dmcnama1@umd.edu
 ## Phone: 
 *a number goes here* 
 ## Twitter (all opinions are my own)
-@freeejazzz
+[freeejazzz](http://wwww.twitter.com/freeejazzz)
