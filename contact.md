@@ -1,7 +1,7 @@
 # Contact Information
-## Email: 
+### Email: 
 dmcnama1@umd.edu 
-## Phone: 
+### Phone: 
 *a number goes here* 
-## Twitter (all opinions are my own)
+### Twitter (all opinions are my own)
 [freeejazzz](http://wwww.twitter.com/freeejazzz)
